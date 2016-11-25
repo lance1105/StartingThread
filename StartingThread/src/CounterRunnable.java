@@ -10,7 +10,7 @@ public class CounterRunnable implements Runnable {
 			try {
 				Thread.sleep(500);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block made a change
+				// TODO Auto-generated catch block made a change (and made this)
 				e.printStackTrace();
 			}
 		}
